@@ -22,7 +22,7 @@ Notebook: `BSE_TimeSeries_stock_forecasting.ipynb`
 
 ---
 
-## 🛠 Usage
+## Usage
 
 1. Open notebooks in JupyterLab, VSCode, or any Python 3.x environment
 2. Required packages (install with `pip`):
@@ -35,18 +35,18 @@ Notebook: `BSE_TimeSeries_stock_forecasting.ipynb`
 
 ---
 
-## 📊 Evaluation Metrics in Recommenders
+## Evaluation Metrics in Recommenders
 
 Offline metrics like:
 - **Mean Average Precision (MAP)** — how many top items are relevant
 - **Normalized Discounted Cumulative Gain (NDCG)** — takes item position into account
 - **Hit Rate** — measures if the relevant item was recommended
 
-> 🧪 However, real validation of recommender systems should be done via **A/B testing** — offline metrics alone can be misleading in production.
+>  However, real validation of recommender systems should be done via **A/B testing** — offline metrics alone can be misleading in production.
 
 ---
 
-## 🧠 About the Author
+## About the Author
 
 **Kanstantsin Bichun**  
 Senior Data Scientist with 5+ years experience in financial modeling, treasury optimization, and machine learning in banking (Alfa-bank Belarus).
